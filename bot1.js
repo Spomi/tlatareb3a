@@ -370,4 +370,4 @@ message.author.send(`https://discordapp.com/oauth2/authorize?client_id=${client.
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT1_TOKEN);
